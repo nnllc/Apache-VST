@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Flute1 Samplemap" RRGroupAmount="1.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- A#1.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="0" MonolithLength="937984"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- A#2.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="937984" MonolithLength="937984"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- A#3.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="1875968" MonolithLength="937984"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- A#4.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="2813952" MonolithLength="937984"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- A1.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="3751936" MonolithLength="937984"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- A2.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="4689920" MonolithLength="937984"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- A3.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="5627904" MonolithLength="937984"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- A4.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="6565888" MonolithLength="937984"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- B1.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="7503872" MonolithLength="937984"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- B2.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="8441856" MonolithLength="937984"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- B3.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="9379840" MonolithLength="937984"/>
+  <sample Root="83" LoKey="83" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- B4.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="10317824" MonolithLength="937984"/>
+  <sample Root="37" LoKey="37" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- C#1.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="11255808" MonolithLength="937984"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- C#2.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="12193792" MonolithLength="937984"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- C#3.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="13131776" MonolithLength="937984"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- C#4.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="14069760" MonolithLength="937984"/>
+  <sample Root="36" LoKey="0" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- C1.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="15007744" MonolithLength="937984"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- C2.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="15945728" MonolithLength="937984"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- C3.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="16883712" MonolithLength="937984"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- C4.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="17821696" MonolithLength="937984"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- D#1.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="18759680" MonolithLength="937984"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- D#2.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="19697664" MonolithLength="937984"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- D#3.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="20635648" MonolithLength="937984"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- D#4.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="21573632" MonolithLength="937984"/>
+  <sample Root="38" LoKey="38" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- D1.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="22511616" MonolithLength="937984"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- D2.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="23449600" MonolithLength="937984"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- D3.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="24387584" MonolithLength="937984"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- D4.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="25325568" MonolithLength="937984"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- E1.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="26263552" MonolithLength="937984"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- E2.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="27201536" MonolithLength="937984"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- E3.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="28139520" MonolithLength="937984"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- E4.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="29077504" MonolithLength="937984"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- F#1.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="30015488" MonolithLength="937984"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- F#2.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="30953472" MonolithLength="937984"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- F#3.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="31891456" MonolithLength="937984"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- F#4.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="32829440" MonolithLength="937984"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- F1.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="33767424" MonolithLength="937984"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- F2.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="34705408" MonolithLength="937984"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- F3.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="35643392" MonolithLength="937984"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- F4.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="36581376" MonolithLength="937984"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- G#1.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="37519360" MonolithLength="937984"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- G#2.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="38457344" MonolithLength="937984"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- G#3.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="39395328" MonolithLength="937984"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- G#4.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="40333312" MonolithLength="937984"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- G1.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="41271296" MonolithLength="937984"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- G2.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="42209280" MonolithLength="937984"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- G3.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="43147264" MonolithLength="937984"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute1- G4.wav" Duplicate="0" SampleEnd="936000"
+          SampleRate="48000.0" MonolithOffset="44085248" MonolithLength="937984"/>
+</samplemap>

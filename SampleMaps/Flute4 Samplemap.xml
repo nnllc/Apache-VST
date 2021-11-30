@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Flute4 Samplemap" RRGroupAmount="1.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="45" LoKey="43" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute4- A1.wav" Duplicate="0" SampleEnd="1012800"
+          SampleRate="48000.0" MonolithOffset="0" MonolithLength="1015808"/>
+  <sample Root="57" LoKey="55" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute4- A2.wav" Duplicate="0" SampleEnd="1012800"
+          SampleRate="48000.0" MonolithOffset="1015808" MonolithLength="1015808"/>
+  <sample Root="69" LoKey="67" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute4- A3.wav" Duplicate="0" SampleEnd="1012800"
+          SampleRate="48000.0" MonolithOffset="2031616" MonolithLength="1015808"/>
+  <sample Root="81" LoKey="81" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute4- A4.wav" Duplicate="0" SampleEnd="1012800"
+          SampleRate="48000.0" MonolithOffset="3047424" MonolithLength="1015808"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute4- C1.wav" Duplicate="0" SampleEnd="1012800"
+          SampleRate="48000.0" MonolithOffset="4063232" MonolithLength="1015808"/>
+  <sample Root="48" LoKey="47" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute4- C2.wav" Duplicate="0" SampleEnd="1012800"
+          SampleRate="48000.0" MonolithOffset="5079040" MonolithLength="1015808"/>
+  <sample Root="60" LoKey="59" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute4- C3.wav" Duplicate="0" SampleEnd="1012800"
+          SampleRate="48000.0" MonolithOffset="6094848" MonolithLength="1015808"/>
+  <sample Root="72" LoKey="71" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute4- C4.wav" Duplicate="0" SampleEnd="1012800"
+          SampleRate="48000.0" MonolithOffset="7110656" MonolithLength="1015808"/>
+  <sample Root="40" LoKey="39" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute4- E1.wav" Duplicate="0" SampleEnd="1012800"
+          SampleRate="48000.0" MonolithOffset="8126464" MonolithLength="1015808"/>
+  <sample Root="52" LoKey="51" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute4- E2.wav" Duplicate="0" SampleEnd="1012800"
+          SampleRate="48000.0" MonolithOffset="9142272" MonolithLength="1015808"/>
+  <sample Root="64" LoKey="63" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute4- E3.wav" Duplicate="0" SampleEnd="1012800"
+          SampleRate="48000.0" MonolithOffset="10158080" MonolithLength="1015808"/>
+  <sample Root="76" LoKey="75" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Flute4- E4.wav" Duplicate="0" SampleEnd="1012800"
+          SampleRate="48000.0" MonolithOffset="11173888" MonolithLength="1015808"/>
+</samplemap>

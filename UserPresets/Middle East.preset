@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1.2.1">
+  <Content Processor="Interface">
+    <Control type="ScriptButton" id="Button1" value="1.0"/>
+    <Control type="ScriptButton" id="Button2" value="1.0"/>
+    <Control type="ScriptButton" id="Button3" value="1.0"/>
+    <Control type="ScriptButton" id="Button4" value="0.0"/>
+    <Control type="ScriptButton" id="Button5" value="1.0"/>
+    <Control type="ScriptButton" id="Button6" value="1.0"/>
+    <Control type="ScriptButton" id="Button7" value="1.0"/>
+    <Control type="ScriptButton" id="Button8" value="1.0"/>
+    <Control type="ScriptButton" id="Button9" value="1.0"/>
+    <Control type="ScriptButton" id="Button10" value="1.0"/>
+    <Control type="ScriptSlider" id="Attackknb" value="0.0"/>
+    <Control type="ScriptSlider" id="Releaseknb" value="50.0"/>
+    <Control type="ScriptSlider" id="GainFluteknb" value="3.900001525878906"/>
+    <Control type="ScriptSlider" id="Pansld" value="0.0"/>
+    <Control type="ScriptSlider" id="GainMainknb" value="-9.999999046325684"/>
+    <Control type="ScriptSlider" id="FiltHPknb" value="20.0"/>
+    <Control type="ScriptSlider" id="FiltLPknb" value="20000.0"/>
+    <Control type="ScriptSlider" id="FiltLPknb1" value="8.0"/>
+    <Control type="ScriptSlider" id="WavesMixknb" value="0.01999999955296516"/>
+    <Control type="ScriptSlider" id="FiltLPknb2" value="500.0"/>
+    <Control type="ScriptSlider" id="FiltHPknb2" value="1000.0"/>
+    <Control type="ScriptSlider" id="FiltHPknb3" value="2811.0"/>
+    <Control type="ScriptSlider" id="FeelGainknb" value="5.800000190734863"/>
+    <Control type="ScriptSlider" id="FiltLPknb4" value="1.0"/>
+    <Control type="ScriptSlider" id="FiltHPknb4" value="5950.0"/>
+    <Control type="ScriptSlider" id="ArtifactsGainknb" value="6.300000190734863"/>
+    <Control type="ScriptSlider" id="FiltLPknb6" value="1.0"/>
+    <Control type="ScriptSlider" id="FiltHPknb5" value="20.0"/>
+    <Control type="ScriptSlider" id="FiltLPknb7" value="20000.0"/>
+    <Control type="ScriptSlider" id="ReverbWetknb" value="0.3799999952316284"/>
+    <Control type="ScriptSlider" id="FiltLPknb8" value="0.6000000238418579"/>
+    <Control type="ScriptSlider" id="FiltHPknb7" value="0.699999988079071"/>
+    <Control type="ScriptSlider" id="FiltLPknb9" value="0.6899999976158142"/>
+    <Control type="ScriptSlider" id="FiltLPknb10" value="0.4199999868869781"/>
+    <Control type="ScriptSlider" id="FiltHPknb8" value="0.4000000059604645"/>
+    <Control type="ScriptSlider" id="FiltLPknb11" value="20000.0"/>
+    <Control type="ScriptSlider" id="FiltHPknb9" value="20.0"/>
+    <Control type="ScriptSlider" id="FiltLPknb12" value="8.0"/>
+    <Control type="ScriptSlider" id="FiltHPknb10" value="9.0"/>
+    <Control type="ScriptSlider" id="DelayMixknb" value="0.3700000047683716"/>
+    <Control type="ScriptSlider" id="GainFluteknb6" value="100.0"/>
+    <Control type="ScriptSlider" id="Attackknb1" value="20.0"/>
+    <Control type="ScriptSlider" id="Releaseknb1" value="20000.0"/>
+    <Control type="ScriptSlider" id="Attackknb4" value="20.0"/>
+    <Control type="ScriptSlider" id="Releaseknb4" value="20000.0"/>
+    <Control type="ScriptSlider" id="Attackknb5" value="0.0"/>
+    <Control type="ScriptSlider" id="Releaseknb5" value="50.0"/>
+    <Control type="ScriptSlider" id="GainFluteknb1" value="-8.599998474121094"/>
+    <Control type="ScriptSlider" id="Pansld1" value="67.0"/>
+    <Control type="ScriptSlider" id="Attackknb6" value="0.0"/>
+    <Control type="ScriptSlider" id="Attackknb7" value="20.0"/>
+    <Control type="ScriptSlider" id="Releaseknb6" value="20000.0"/>
+    <Control type="ScriptSlider" id="Releaseknb7" value="50.0"/>
+    <Control type="ScriptSlider" id="GainFluteknb2" value="1.490116119384766e-6"/>
+    <Control type="ScriptSlider" id="Pansld2" value="0.0"/>
+    <Control type="ScriptSlider" id="Attackknb8" value="0.0"/>
+    <Control type="ScriptSlider" id="Attackknb9" value="20.0"/>
+    <Control type="ScriptSlider" id="Releaseknb8" value="4140.0"/>
+    <Control type="ScriptSlider" id="Releaseknb9" value="50.0"/>
+    <Control type="ScriptSlider" id="GainFluteknb3" value="-7.299998760223389"/>
+    <Control type="ScriptSlider" id="Pansld3" value="-46.0"/>
+  </Content>
+  <MidiAutomation/>
+  <MPEData Enabled="0"/>
+</Preset>
